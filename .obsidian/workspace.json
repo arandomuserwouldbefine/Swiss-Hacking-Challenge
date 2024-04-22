@@ -1,0 +1,231 @@
+{
+  "main": {
+    "id": "698f800ccf85079e",
+    "type": "split",
+    "children": [
+      {
+        "id": "a216296e8343ca0b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e5a624643b40ea67",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Server Less Login/Server less Login.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "58878d310a3e6ab6",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Server Less Login/Pasted image 20240421103857.png"
+              }
+            }
+          },
+          {
+            "id": "6b1de884684a4c55",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Server Less Login/Server less Login.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6cf7fc8085b55b1e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Office Press/Office Press.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b7b4d3bcc8a269ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sentry As Navigation/Sentry.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "95a3c0ca462c1147",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Centralized Identity/Notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "be183e43773fcd8e",
+    "type": "split",
+    "children": [
+      {
+        "id": "d37c0661ef71c26b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2781ec3862457d0c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "39df12498f19f11c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0efa06e26c6c174b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1f88802c55dabc19",
+    "type": "split",
+    "children": [
+      {
+        "id": "073bce9e82ebada0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ba374bf8a019c79b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Centralized Identity/Notes.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "47a6c815b88ede43",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Centralized Identity/Notes.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6089beab6f48c558",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c2fc3391de8ed29e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Centralized Identity/Notes.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "2781ec3862457d0c",
+  "lastOpenFiles": [
+    "Centralized Identity/Pasted image 20240422224216.png",
+    "Centralized Identity/Pasted image 20240422224115.png",
+    "Centralized Identity/Pasted image 20240422224028.png",
+    "Centralized Identity/Pasted image 20240422223928.png",
+    "Centralized Identity/Pasted image 20240422223917.png",
+    "Centralized Identity/Pasted image 20240422223749.png",
+    "Centralized Identity/Pasted image 20240422223638.png",
+    "Centralized Identity/Pasted image 20240422223155.png",
+    "Centralized Identity/Pasted image 20240422223010.png",
+    "Centralized Identity/Pasted image 20240422222744.png",
+    "Centralized Identity/Pasted image 20240422222413.png",
+    "Centralized Identity/Notes.md",
+    "Sentry As Navigation/Sentry.md",
+    "Centralized Identity",
+    "Office Press/Office Press.md",
+    "Sentry As Navigation",
+    "Server Less Login/Server less Login.md",
+    "Office Press",
+    "Server Less Login",
+    "Welcome.md"
+  ]
+}
