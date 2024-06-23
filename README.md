@@ -20,5 +20,6 @@ The qualifier runs for two months, offering plenty of time for participants to s
 
 I participated in the Swiss Hacking Challenge 2024 qualifiers for fun, not for selection, and I achieved an impressive **rank 31** in the open division! It was an amazing experience, and I look forward to participating again in the future.
 
+
 ## Thanks for Reading!
 
