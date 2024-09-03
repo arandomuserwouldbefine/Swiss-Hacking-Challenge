@@ -8,6 +8,7 @@
 We are only given 2 files in the tar.gz file: 
 1) entrypoint.sh
 2) Dockerfile
+3) 
 ### Dockerfile
 
 ![[Pasted image 20240421104803.png]]
