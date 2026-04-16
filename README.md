@@ -1,8 +1,9 @@
-# Swiss Hacking Challenge 2024 Qualifiers
-
-![Swiss Hacking Challenge](https://swiss-hacking-challenge.ch/static/img/mnt_ain_logo.png)
+# Swiss Hacking Challenge 2024 Qualifiers / Archived Library
 
 The **Swiss Hacking Challenge (SHC)** is the annual National Hacking Championship of Switzerland. If you enjoy Capture the Flag (CTF), hacking, and cyber security, this is the event for you! 
+
+**/mnt/ain** CTF team challenge archive! It holds many challenges that were part of previous qualifier and final ctf events of the swiss hacking challenge.
+https://library.m0unt41n.ch/
 
 For more information about the options for qualifying, pictures from past editions, and the people behind the Swiss Hacking Challenge, please visit the [Swiss Hacking Challenge Homepage](https://swisshacking.ch).
 

@@ -4,93 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "a216296e8343ca0b",
+        "id": "ccf7268a84e26bdf",
         "type": "tabs",
         "children": [
           {
-            "id": "e5a624643b40ea67",
+            "id": "6cd46f3406bb4486",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Server Less Login/Server less Login.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "58878d310a3e6ab6",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Server Less Login/Pasted image 20240421103857.png"
-              }
-            }
-          },
-          {
-            "id": "6b1de884684a4c55",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Server Less Login/Server less Login.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6cf7fc8085b55b1e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Office Press/Office Press.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b7b4d3bcc8a269ec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sentry As Navigation/Sentry.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "95a3c0ca462c1147",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Centralized Identity/Notes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b3655ae5c1e27c6e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Office Program/Notes.md",
-                "mode": "source",
-                "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,8 +40,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -125,7 +59,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -133,7 +69,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -156,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Office Program/Notes.md",
+                "file": "Web/RTFM/Screenshot 2026-04-16 at 5.27.18 PM.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +102,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Screenshot 2026-04-16 at 5.27.18 PM"
             }
           },
           {
@@ -173,10 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Office Program/Notes.md",
+                "file": "Web/RTFM/Screenshot 2026-04-16 at 5.27.18 PM.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Screenshot 2026-04-16 at 5.27.18 PM"
             }
           },
           {
@@ -186,8 +128,12 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
-              }
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -196,8 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Office Program/Notes.md"
-              }
+                "file": "Web/RTFM/Screenshot 2026-04-16 at 5.27.18 PM.png",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Screenshot 2026-04-16 at 5.27.18 PM"
             }
           }
         ]
@@ -209,6 +160,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -219,27 +171,38 @@
   },
   "active": "2781ec3862457d0c",
   "lastOpenFiles": [
-    "Office Program/Pasted image 20240423201524.png",
-    "Office Program/Pasted image 20240423200754.png",
-    "Office Program/Pasted image 20240423200657.png",
-    "Server Less Login/Server less Login.md",
-    "Office Program/Notes.md",
-    "Office Program",
-    "Centralized Identity/Pasted image 20240422224216.png",
-    "Centralized Identity/Pasted image 20240422224115.png",
-    "Centralized Identity/Pasted image 20240422224028.png",
-    "Centralized Identity/Pasted image 20240422223928.png",
-    "Centralized Identity/Pasted image 20240422223917.png",
-    "Centralized Identity/Pasted image 20240422223749.png",
-    "Centralized Identity/Pasted image 20240422223638.png",
-    "Centralized Identity/Pasted image 20240422223155.png",
-    "Centralized Identity/Notes.md",
-    "Sentry As Navigation/Sentry.md",
-    "Centralized Identity",
-    "Office Press/Office Press.md",
-    "Sentry As Navigation",
-    "Office Press",
-    "Server Less Login",
+    "Web/RTFM/Screenshot 2026-04-16 at 5.14.36 PM.png",
+    "Web/RTFM/RTFM.md",
+    "Web/RTFM",
+    "Web/RTFM/Screenshot 2026-04-16 at 5.27.18 PM.png",
+    "Web/RTFM/Screenshot 2026-04-16 at 5.26.28 PM.png",
+    "Web/RTFM/Screenshot 2026-04-16 at 5.22.16 PM.png",
+    "Screenshot 2026-04-16 at 5.21.55 PM.png",
+    "Web/RTFM/Screenshot 2026-04-16 at 5.21.31 PM.png",
+    "README.md",
+    "Web/Office Press/Office Press.md",
+    "Web/Office Press/Screenshot 2026-04-16 at 5.12.17 PM.png",
+    "Web/Centralized Identity/Notes.md",
+    "Web/Back To The Roots/Back To The Roots.md",
+    "Rev/Office Program/Notes.md",
+    "Rev",
+    "Rev/Office Program/Pasted_image_20240423200657.png",
+    "Web/Sentry As Navigation/Sentry.md",
+    "Web/Sentry As Navigation/Pasted_image_20240421110013.png",
+    "Web/Server Less Login/Server less Login.md",
+    "Web/Server Less Login/Pasted_image_20240421105910.png",
+    "Crypto/Farm-Life/Farm Life.md",
+    "Crypto/Farm-Life",
+    "Crypto/Really-Secure-Application/Really Secure Application.md",
+    "Crypto/Really-Secure-Application",
+    "Crypto/Office-Encryption/Office Encryption.md",
+    "Crypto/Office-Encryption",
+    "Crypto",
+    "Web/Air Smeller/Air Smeller.md",
+    "Web/Air Smeller",
+    "Web/Back To The Roots",
+    "Web",
+    "Rev/Office Program",
     "Welcome.md"
   ]
 }
